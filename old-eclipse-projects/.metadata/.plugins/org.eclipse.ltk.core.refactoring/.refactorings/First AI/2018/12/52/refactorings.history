@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;AIresponses&apos; in &apos;Talking&apos; to &apos;Cresponses&apos;&#x0D;&#x0A;- Original project: &apos;First AI&apos;&#x0D;&#x0A;- Original element: &apos;Talking.AIresponses&apos;&#x0D;&#x0A;- Renamed element: &apos;Talking.Cresponses&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;AIresponses&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{Talking.java[Talking^AIresponses" name="Cresponses" references="true" setter="false" stamp="1545684538460" textual="false" version="1.0"/>
+</session>
