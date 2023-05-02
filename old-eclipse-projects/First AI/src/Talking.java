@@ -33,7 +33,7 @@ public class Talking {
 				break;
 			
 			case(2):
-				Bot.botSay("Please rephrase that. I'm sorry I'm not like fucking Google Assistant.");
+				Bot.botSay("Please rephrase that. I'm sorry I'm not like Google Assistant.");
 				break;
 			
 			case(3):
